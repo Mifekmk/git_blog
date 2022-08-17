@@ -10,7 +10,6 @@ html, body{
     background-position: center;
     position: absolute;
     top: 0;
-    
 }
 
 .wood{
@@ -24,8 +23,8 @@ html, body{
 }
 .contents{
     position: absolute;
-    top : 20%;
-    left: 35%;
+    top : 10%;
+    left: 30%;
     z-index: 20;
     color: white;
     font-weight: bold;
