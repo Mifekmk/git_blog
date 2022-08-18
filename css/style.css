@@ -23,8 +23,10 @@ html, body{
 }
 .contents{
     position: absolute;
-    top : 10%;
-    left: 30%;
+    top: 40%;
+    left: 50%;
+    margin-left: -385px;
+    margin-top: -205px;
     z-index: 20;
     color: white;
     font-weight: bold;
